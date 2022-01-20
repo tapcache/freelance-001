@@ -27,6 +27,8 @@ forum_last_activity_url = "{}/whats-new/latest-activity".format(forum_url)
 async def last_activity():
     try:
         mozilla_options = FirefoxOptions()
+        mozilla_options.add_argument('--disable-dev-shm-usage')
+        mozilla_options.add_argument('--no-sandbox')
         mozilla_options.add_argument("--headless")
         driver = webdriver.Firefox(options=mozilla_options)
         driver.get(forum_login_url)
