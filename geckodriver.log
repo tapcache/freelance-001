@@ -1,0 +1,651 @@
+1641847278036	geckodriver	INFO	Listening on 127.0.0.1:42279
+1641847279047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSXZhQ5"
+Error: no DISPLAY environment variable specified
+1641847301485	geckodriver	INFO	Listening on 127.0.0.1:38597
+1641847302494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8afrFL"
+Error: no DISPLAY environment variable specified
+1642108352711	geckodriver	INFO	Listening on 127.0.0.1:57419
+1642108353718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileQwHvfc"
+*** You are running in headless mode.
+1642108353919	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQwHvfc/search.json.mozlz4", (void 0)))
+1642108354801	Marionette	INFO	Listening on port 36363
+1642108354832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108373593	Marionette	INFO	Stopped listening on port 36363
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642108445275	geckodriver	INFO	Listening on 127.0.0.1:49921
+1642108446282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileIf3uNz"
+*** You are running in headless mode.
+1642108446493	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIf3uNz/search.json.mozlz4", (void 0)))
+1642108447345	Marionette	INFO	Listening on port 36845
+1642108447398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108454228	Marionette	INFO	Stopped listening on port 36845
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642108551338	geckodriver	INFO	Listening on 127.0.0.1:34231
+1642108552344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileC8758o"
+*** You are running in headless mode.
+1642108552549	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC8758o/search.json.mozlz4", (void 0)))
+1642108553439	Marionette	INFO	Listening on port 44369
+1642108553460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108569511	Marionette	INFO	Stopped listening on port 44369
+1642108623306	geckodriver	INFO	Listening on 127.0.0.1:50269
+1642108624312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXTCtyE"
+1642108624693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXTCtyE/search.json.mozlz4", (void 0)))
+1642108625567	Marionette	INFO	Listening on port 34167
+1642108625631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108637285	Marionette	INFO	Stopped listening on port 34167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642108648720	geckodriver	INFO	Listening on 127.0.0.1:33399
+1642108649727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8RohwG"
+1642108650110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8RohwG/search.json.mozlz4", (void 0)))
+1642108650996	Marionette	INFO	Listening on port 40965
+1642108651040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108656887	Marionette	INFO	Stopped listening on port 40965
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642108660465	geckodriver	INFO	Listening on 127.0.0.1:60987
+1642108661471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0OFSMU"
+1642108661853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0OFSMU/search.json.mozlz4", (void 0)))
+1642108662699	Marionette	INFO	Listening on port 42007
+1642108662789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108671503	Marionette	INFO	Stopped listening on port 42007
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642108844211	geckodriver	INFO	Listening on 127.0.0.1:40243
+1642108845218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXN8jhI"
+1642108845593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXN8jhI/search.json.mozlz4", (void 0)))
+1642108846469	Marionette	INFO	Listening on port 37219
+1642108846537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642108852797	Marionette	INFO	Stopped listening on port 37219
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000B,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642109794828	geckodriver	INFO	Listening on 127.0.0.1:43925
+1642109794830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledDnL52"
+1642109795206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledDnL52/search.json.mozlz4", (void 0)))
+1642109796043	Marionette	INFO	Listening on port 38929
+1642109796143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1642110318118	geckodriver	INFO	Listening on 127.0.0.1:51677
+1642110318120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileg9eH7f"
+1642110318488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg9eH7f/search.json.mozlz4", (void 0)))
+1642110319390	Marionette	INFO	Listening on port 45717
+1642110319433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642110344021	Marionette	INFO	Stopped listening on port 45717
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642110460050	geckodriver	INFO	Listening on 127.0.0.1:59319
+1642110460052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile65Wdo3"
+1642110460430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile65Wdo3/search.json.mozlz4", (void 0)))
+1642110461282	Marionette	INFO	Listening on port 44545
+1642110461374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642110469435	Marionette	INFO	Stopped listening on port 44545
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642111202046	geckodriver	INFO	Listening on 127.0.0.1:56731
+1642111202048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebUhH2G"
+1642111202436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebUhH2G/search.json.mozlz4", (void 0)))
+1642111203356	Marionette	INFO	Listening on port 45675
+1642111203461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642111236029	Marionette	INFO	Stopped listening on port 45675
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642111268580	geckodriver	INFO	Listening on 127.0.0.1:54149
+1642111268582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileLBmGld"
+*** You are running in headless mode.
+1642111268789	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLBmGld/search.json.mozlz4", (void 0)))
+1642111269658	Marionette	INFO	Listening on port 45089
+1642111269700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642111277412	Marionette	INFO	Stopped listening on port 45089
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642111770666	geckodriver	INFO	Listening on 127.0.0.1:44597
+1642111770669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileK5s1yb"
+*** You are running in headless mode.
+1642111770867	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK5s1yb/search.json.mozlz4", (void 0)))
+1642111771751	Marionette	INFO	Listening on port 45927
+1642111771781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642111786054	Marionette	INFO	Stopped listening on port 45927
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642111883669	geckodriver	INFO	Listening on 127.0.0.1:56209
+1642111883671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile6huKbu"
+*** You are running in headless mode.
+1642111883867	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6huKbu/search.json.mozlz4", (void 0)))
+1642111884747	Marionette	INFO	Listening on port 34857
+1642111884783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642111894695	Marionette	INFO	Stopped listening on port 34857
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642112101158	geckodriver	INFO	Listening on 127.0.0.1:48513
+1642112101161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile5a6KCb"
+*** You are running in headless mode.
+1642112101370	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5a6KCb/search.json.mozlz4", (void 0)))
+1642112102227	Marionette	INFO	Listening on port 38483
+1642112102273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642112132350	Marionette	INFO	Stopped listening on port 38483
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642112200374	geckodriver	INFO	Listening on 127.0.0.1:51405
+1642112200377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledbQEll"
+*** You are running in headless mode.
+1642112200599	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledbQEll/search.json.mozlz4", (void 0)))
+1642112201532	Marionette	INFO	Listening on port 36061
+1642112201592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642112222628	Marionette	INFO	Stopped listening on port 36061
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642112296264	geckodriver	INFO	Listening on 127.0.0.1:55723
+1642112296267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofiletisAPJ"
+*** You are running in headless mode.
+1642112296495	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletisAPJ/search.json.mozlz4", (void 0)))
+1642112297379	Marionette	INFO	Listening on port 33443
+1642112297484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642112310121	Marionette	INFO	Stopped listening on port 33443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642112497065	geckodriver	INFO	Listening on 127.0.0.1:55119
+1642112497067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNhmVZk"
+*** You are running in headless mode.
+1642112497291	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNhmVZk/search.json.mozlz4", (void 0)))
+1642112498215	Marionette	INFO	Listening on port 38431
+1642112498287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642112507754	Marionette	INFO	Stopped listening on port 38431
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642114700179	geckodriver	INFO	Listening on 127.0.0.1:54623
+1642114700181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLXxB0i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642114700554	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLXxB0i/search.json.mozlz4", (void 0)))
+1642114701636	Marionette	INFO	Listening on port 34249
+1642114701699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642114705307	Marionette	INFO	Stopped listening on port 34249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642114724212	geckodriver	INFO	Listening on 127.0.0.1:51601
+1642114724214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileahLECD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642114724589	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileahLECD/search.json.mozlz4", (void 0)))
+1642114725664	Marionette	INFO	Listening on port 38127
+1642114725729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642114737334	Marionette	INFO	Stopped listening on port 38127
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642114847006	geckodriver	INFO	Listening on 127.0.0.1:52253
+1642114847008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJdhpby"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642114847408	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJdhpby/search.json.mozlz4", (void 0)))
+1642114848486	Marionette	INFO	Listening on port 33903
+1642114848526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1642114938662	geckodriver	INFO	Listening on 127.0.0.1:38593
+1642114938664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileINLbDq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642114939047	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileINLbDq/search.json.mozlz4", (void 0)))
+1642114940018	Marionette	INFO	Listening on port 35671
+1642114940080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642114950011	Marionette	INFO	Stopped listening on port 35671
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115056214	geckodriver	INFO	Listening on 127.0.0.1:40747
+1642115057215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileX7GX9H"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642115057594	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX7GX9H/search.json.mozlz4", (void 0)))
+1642115058697	Marionette	INFO	Listening on port 40975
+1642115058734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115062435	Marionette	INFO	Stopped listening on port 40975
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115066927	geckodriver	INFO	Listening on 127.0.0.1:58927
+1642115067932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoW7c6L"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642115068348	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoW7c6L/search.json.mozlz4", (void 0)))
+1642115069449	Marionette	INFO	Listening on port 39291
+1642115069552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115073201	Marionette	INFO	Stopped listening on port 39291
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115105097	geckodriver	INFO	Listening on 127.0.0.1:36609
+1642115106100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileKajCxf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1642115106497	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKajCxf/search.json.mozlz4", (void 0)))
+1642115107535	Marionette	INFO	Listening on port 39951
+1642115107614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115113978	Marionette	INFO	Stopped listening on port 39951
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115629159	geckodriver	INFO	Listening on 127.0.0.1:33835
+1642115630164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile0rWHfc"
+*** You are running in headless mode.
+1642115630373	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0rWHfc/search.json.mozlz4", (void 0)))
+1642115631208	Marionette	INFO	Listening on port 43159
+1642115631280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115635832	Marionette	INFO	Stopped listening on port 43159
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115663467	geckodriver	INFO	Listening on 127.0.0.1:57097
+1642115664472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile2b94YJ"
+*** You are running in headless mode.
+1642115664691	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2b94YJ/search.json.mozlz4", (void 0)))
+1642115665650	Marionette	INFO	Listening on port 42629
+1642115665686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115670053	Marionette	INFO	Stopped listening on port 42629
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1642115682740	geckodriver	INFO	Listening on 127.0.0.1:39165
+1642115683745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSqXrFu"
+*** You are running in headless mode.
+1642115683962	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSqXrFu/search.json.mozlz4", (void 0)))
+1642115684856	Marionette	INFO	Listening on port 43563
+1642115684959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115688823	Marionette	INFO	Stopped listening on port 43563
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115691336	geckodriver	INFO	Listening on 127.0.0.1:51605
+1642115692338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilegO7SKI"
+*** You are running in headless mode.
+1642115692552	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegO7SKI/search.json.mozlz4", (void 0)))
+1642115693439	Marionette	INFO	Listening on port 36941
+1642115693455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115698411	Marionette	INFO	Stopped listening on port 36941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642115702058	geckodriver	INFO	Listening on 127.0.0.1:35257
+1642115703061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4SIgbt"
+*** You are running in headless mode.
+1642115703316	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4SIgbt/search.json.mozlz4", (void 0)))
+1642115704330	Marionette	INFO	Listening on port 43131
+1642115704376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642115708079	Marionette	INFO	Stopped listening on port 43131
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642116744651	geckodriver	INFO	Listening on 127.0.0.1:56235
+1642116745658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4cPYvp"
+*** You are running in headless mode.
+1642116745863	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4cPYvp/search.json.mozlz4", (void 0)))
+1642116746746	Marionette	INFO	Listening on port 44769
+1642116746771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1642116754607	Marionette	INFO	Stopped listening on port 44769
+1642117159092	geckodriver	INFO	Listening on 127.0.0.1:52035
+1642117160097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilelVRQ86"
+*** You are running in headless mode.
+1642117160307	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelVRQ86/search.json.mozlz4", (void 0)))
+1642117161193	Marionette	INFO	Listening on port 41469
+1642117161215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642117166621	Marionette	INFO	Stopped listening on port 41469
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642117199827	geckodriver	INFO	Listening on 127.0.0.1:58055
+1642117200831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileGBILzx"
+*** You are running in headless mode.
+1642117201041	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGBILzx/search.json.mozlz4", (void 0)))
+1642117201873	Marionette	INFO	Listening on port 42243
+1642117201952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642117207203	Marionette	INFO	Stopped listening on port 42243
+1642117237075	geckodriver	INFO	Listening on 127.0.0.1:54879
+1642117238080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileHKK0nK"
+*** You are running in headless mode.
+1642117238299	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHKK0nK/search.json.mozlz4", (void 0)))
+1642117239122	Marionette	INFO	Listening on port 41313
+1642117239198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642117243218	Marionette	INFO	Stopped listening on port 41313
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642117833949	geckodriver	INFO	Listening on 127.0.0.1:48789
+1642117834952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofilej2Ouii"
+*** You are running in headless mode.
+1642117835163	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej2Ouii/search.json.mozlz4", (void 0)))
+1642117836042	Marionette	INFO	Listening on port 42821
+1642117836065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642117840126	Marionette	INFO	Stopped listening on port 42821
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642117869840	geckodriver	INFO	Listening on 127.0.0.1:40103
+1642117870845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileCttLcu"
+*** You are running in headless mode.
+1642117871080	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCttLcu/search.json.mozlz4", (void 0)))
+1642117872044	Marionette	INFO	Listening on port 44127
+1642117872061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642117875930	Marionette	INFO	Stopped listening on port 44127
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642117902465	geckodriver	INFO	Listening on 127.0.0.1:60887
+1642117903467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofiler3rY7G"
+*** You are running in headless mode.
+1642117903708	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler3rY7G/search.json.mozlz4", (void 0)))
+1642117904646	Marionette	INFO	Listening on port 35065
+1642117904681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642117909252	Marionette	INFO	Stopped listening on port 35065
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642247292719	geckodriver	INFO	Listening on 127.0.0.1:42705
+1642247293725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileVyj8hy"
+*** You are running in headless mode.
+1642247293927	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVyj8hy/search.json.mozlz4", (void 0)))
+1642247294782	Marionette	INFO	Listening on port 37643
+1642247294846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642247297372	Marionette	INFO	Stopped listening on port 37643
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642247402295	geckodriver	INFO	Listening on 127.0.0.1:48535
+1642247402298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileSYwYKc"
+*** You are running in headless mode.
+1642247402488	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSYwYKc/search.json.mozlz4", (void 0)))
+1642247403347	Marionette	INFO	Listening on port 39513
+1642247403416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642247405347	Marionette	INFO	Stopped listening on port 39513
+1642247418462	geckodriver	INFO	Listening on 127.0.0.1:50925
+1642247418464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledFc17e"
+*** You are running in headless mode.
+1642247418654	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledFc17e/search.json.mozlz4", (void 0)))
+1642247419483	Marionette	INFO	Listening on port 32851
+1642247419577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642247422347	Marionette	INFO	Stopped listening on port 32851
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642341943621	geckodriver	INFO	Listening on 127.0.0.1:37453
+1642341944627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofile5YOQRr"
+*** You are running in headless mode.
+1642341945006	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5YOQRr/search.json.mozlz4", (void 0)))
+1642341945945	Marionette	INFO	Listening on port 39149
+1642341946048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642341952409	Marionette	INFO	Stopped listening on port 39149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642341953610	geckodriver	INFO	Listening on 127.0.0.1:38715
+1642341954616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileKMLa6W"
+*** You are running in headless mode.
+1642341954809	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKMLa6W/search.json.mozlz4", (void 0)))
+1642341955672	Marionette	INFO	Listening on port 36485
+1642341955728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642341961206	Marionette	INFO	Stopped listening on port 36485
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642341963612	geckodriver	INFO	Listening on 127.0.0.1:57827
+1642341964618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileUrPQKz"
+*** You are running in headless mode.
+1642341964813	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUrPQKz/search.json.mozlz4", (void 0)))
+1642341965650	Marionette	INFO	Listening on port 38441
+1642341965730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642341971375	Marionette	INFO	Stopped listening on port 38441
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642341973614	geckodriver	INFO	Listening on 127.0.0.1:36023
+1642341974621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileXIO8s3"
+*** You are running in headless mode.
+1642341974817	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXIO8s3/search.json.mozlz4", (void 0)))
+1642341975666	Marionette	INFO	Listening on port 38003
+1642341975733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://forum.telegramhero.ru"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642341984621	Marionette	INFO	Stopped listening on port 38003
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642341984978	geckodriver	INFO	Listening on 127.0.0.1:33709
+1642341985984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-no-remote" "-profile" "/tmp/rust_mozprofileNFvpFw"
+*** You are running in headless mode.
+1642341986180	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNFvpFw/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
